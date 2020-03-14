@@ -1,0 +1,4 @@
+github.com/bit101/blgo v0.0.0-20200312120034-22e83f6a2c26 h1:IViWuEp1dGfT+fBPnsqQRlT9Ms3L19r+dT4AgOiQdkM=
+github.com/bit101/blgo v0.0.0-20200312120034-22e83f6a2c26/go.mod h1:/y3pYWSXSd4Zm5Qx3PZ8tZFgTmnoFtjewuPwYRbtzbo=
+github.com/bit101/go-cairo v0.0.0-20180824171754-2ec005d7e85e h1:ZQNjRjjzNS6RwY85lbwkbBKs4xvg3RuveW2KjK62CBc=
+github.com/bit101/go-cairo v0.0.0-20180824171754-2ec005d7e85e/go.mod h1:EhlDQyvzL9RXujTKdbLy1Sr35jME9wtdWyviJuKnC4A=
