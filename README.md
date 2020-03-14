@@ -2,7 +2,7 @@
 
 A Go program to generate Truchet patterned images from existing pngs.
 
-Usage: `truchet -i inputFile [-o outputFile] [-p pattern] [-t tileSize]`
+Usage: `truch -i inputFile [-o outputFile] [-p pattern] [-t tileSize]`
 
 OutputFile defaults to "out.png"
 
