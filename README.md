@@ -12,4 +12,6 @@ Valid patterns: a, b, c, d, e, f, g, h, i, l, m, n, o, p, q, r, s, t, u, v, x, y
 Examples:
 ![patterns](github.com/bit101/truchet/demo/patterns.png)
 
-Idea from the book ["Opt Art" by Robert Bosch.](https://amzn.to/2w9CVVD)
+Idea from the book [Opt Art](https://amzn.to/2w9CVVD) by Robert Bosch.
+
+Tile patterns from [The Tiling Patterns of Sebastien Truchet and the Topology of Structural Hierarchy ](https://www.jstor.org/stable/1578535) by Cyril Stanley Smith and Pauline Boucher.
